@@ -61,7 +61,8 @@ def insert_bids():
 
     # Close the connection
     conn.close()
-    
-# insert_users()
-# insert_products()
+
+insert_location()    
+insert_users()
+insert_products()
 insert_bids()
